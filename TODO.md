@@ -8,3 +8,8 @@
 |Date|Todo|
 |---|---|
 | 2017/01/12|[マークル木](https://siguniang.wordpress.com/2015/04/11/notes-on-merkle-tree/)|
+
+## VSCode shortcuts
+|Title|Action|
+|---|---|
+|Set a initial state| insert `this.state = initialState`|
