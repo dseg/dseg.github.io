@@ -19,3 +19,16 @@
 * English
 * Other programming language (Red, Clojure, C++)
 * Shogi or Chess
+
+## Google Stock API
+```
+[Indexes]
+//INDEXNIKKEI:NI225
+//DJI
+
+[kawase]
+
+[commodities]
+
+[Crypto Currencies]
+```
