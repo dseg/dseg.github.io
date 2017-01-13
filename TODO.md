@@ -13,3 +13,9 @@
 |Title|Action|
 |---|---|
 |Set a initial state| insert `this.state = initialState`|
+
+## Everyday task
+* Rustc + WebAssembly
+* English
+* Other programming language (Red, Clojure, C++)
+* Shogi or Chess
